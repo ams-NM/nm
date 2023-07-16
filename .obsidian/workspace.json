@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "2961146eecaf6653",
@@ -123,14 +122,15 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
       "templater-obsidian:Templater": true,
-      "periodic-notes:Open today": true,
       "completed-task-display:Task Hider": false,
       "meld-encrypt:Create new encrypted note": true,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "ba6fc6747f030b22",
   "lastOpenFiles": [
+    "README.md",
     "src/site/notes/🏡Home.md",
     "🏡Home.md",
     "src/site/notes/src/site/notes/🏡Home.md",
@@ -159,7 +159,6 @@
     "src/site/notes/Weekly/2022 w52.md",
     "src/site/notes/Weekly/2022 w51.md",
     "src/site/notes/Weekly/2022 w50.md",
-    "src/site/notes/Weekly/2022 w49.md",
     "src/site/notes/Weekly",
     "src/site/notes/Systems/Navaids",
     "src/site/notes/Systems",
