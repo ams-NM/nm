@@ -1,8 +1,8 @@
 {
   "githubRepo": "ams-NM/nm",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "ams-NM",
-  "gardenBaseUrl": "https://nmteam.vercel.app/",
+  "gardenBaseUrl": "https://ams-nm.netlify.app/",
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\":\"Blue Topaz\",\"author\":\"Whyl\",\"repo\":\"whyt-byte/Blue-Topaz_Obsidian-css\",\"screenshot\":\"preview_Blue Topaz.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/whyt-byte/Blue-Topaz_Obsidian-css/HEAD/theme.css\"}",
