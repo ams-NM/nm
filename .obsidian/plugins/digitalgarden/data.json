@@ -1,7 +1,7 @@
 {
-  "githubRepo": "work-ams",
-  "githubToken": "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",
-  "githubUserName": "aj782",
+  "githubRepo": "ams-NM/nm",
+  "githubToken": "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",
+  "githubUserName": "ams-NM",
   "gardenBaseUrl": "https://nmteam.vercel.app/",
   "prHistory": [],
   "baseTheme": "dark",
