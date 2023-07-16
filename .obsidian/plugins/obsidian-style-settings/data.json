@@ -1,0 +1,14 @@
+{
+  "blue-topaz-theme@@font-family-h1": "American Typewriter, var(--font-default)",
+  "blue-topaz-theme@@font-family-h2": "American Typewriter, var(--font-default)",
+  "blue-topaz-theme@@font-family-h3": "American Typewriter, var(--font-default)",
+  "blue-topaz-theme@@font-family-h4": "American Typewriter, var(--font-default)",
+  "blue-topaz-theme@@rainbow-checklist": false,
+  "blue-topaz-theme@@list-style-change-options": "list-bracket-left",
+  "blue-topaz-theme@@unordered-list-style-options": "default-list-marker",
+  "blue-topaz-theme@@font-family-inline-code": "American Typewriter",
+  "supercharged-links@@4540-4a23-before": "📆",
+  "blue-topaz-theme@@show-full-metadata": true,
+  "blue-topaz-theme@@list-indent": 1,
+  "blue-topaz-theme@@callout-style-settings": "shade-callout-style"
+}

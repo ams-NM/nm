@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "5ff755236d3b33cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cd0b7b345160e3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba6fc6747f030b22",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6807be0fd8a307f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b632726ae57b9564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1256b0f23672ec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba3c59f45e40826c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dg-publish path:Weekly",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "e3a31a4e493a8768",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2961146eecaf6653",
+    "type": "split",
+    "children": [
+      {
+        "id": "533b178f1a7960ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a89f9dcca09c563",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68ed86093338541d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ba6fc6747f030b22",
+  "lastOpenFiles": [
+    "src/site/notes/src/site/notes/🏡Home.md",
+    "src/site/notes/src/site/notes",
+    "src/site/notes/src/site",
+    "src/site/notes/src",
+    "src/site/notes/Weekly/2023 w18.md",
+    "src/site/notes/Weekly/2023 w17.md",
+    "src/site/notes/Weekly/2023 w16.md",
+    "src/site/notes/Weekly/2023 w15.md",
+    "src/site/notes/Weekly/2023 w14.md",
+    "src/site/notes/Weekly/2023 w13.md",
+    "src/site/notes/Weekly/2023 w12.md",
+    "src/site/notes/Weekly/2023 w11.md",
+    "src/site/notes/Weekly/2023 w10.md",
+    "src/site/notes/Weekly/2023 w09.md",
+    "src/site/notes/Weekly/2023 w08.md",
+    "src/site/notes/Weekly/2023 w07.md",
+    "src/site/notes/Weekly/2023 w05.md",
+    "src/site/notes/Weekly/2023 w06.md",
+    "src/site/notes/Weekly/2023 w04.md",
+    "src/site/notes/Weekly/2023 w03.md",
+    "src/site/notes/Weekly/2023 w02.md",
+    "src/site/notes/Weekly/2023 w01.md",
+    "src/site/notes/Weekly/2022 w53.md",
+    "src/site/notes/Weekly/2022 w52.md",
+    "src/site/notes/Weekly/2022 w51.md",
+    "src/site/notes/Weekly/2022 w50.md",
+    "src/site/notes/Weekly/2022 w49.md",
+    "src/site/notes/Weekly/2022 w48.md",
+    "src/site/notes/Weekly/2022 w47.md",
+    "src/site/notes/Weekly",
+    "src/site/notes/Systems/Navaids",
+    "src/site/notes/Systems",
+    "src/site/notes/Monthly",
+    "src/site/notes/Attachments",
+    "src/site/notes/All Notes",
+    "Weekly",
+    "Attachments/微信图片_202304041648407.jpg",
+    "Attachments/微信图片_202304041648406.jpg",
+    "Attachments/微信图片_202304041648405.jpg",
+    "Attachments/微信图片_202304041648404.jpg",
+    "Attachments/微信图片_202304041648403.jpg",
+    "Attachments/微信图片_202304041648402.jpg",
+    "Attachments/微信图片_202304041648401.jpg",
+    "Attachments/微信图片_20230404164840.jpg",
+    "Attachments/Vaisala Message Service.jpg",
+    "Attachments/Pasted image 20230403163524.png"
+  ]
+}
